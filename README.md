@@ -1,5 +1,5 @@
 # wCabbage
-Finding genomic markers for delayed flowering of some wild cabbage: cauliflowers/broccoli vs wild/Cabbage/acephala
+Finding genomic markers for delayed flowering of varieties in wild cabbage species: cauliflowers/broccoli vs wild-cabbage/cabbage/acephala
 
 Which genetic features can help classify califlower (with broccoli) vs the other types of wild cabbages?
 
